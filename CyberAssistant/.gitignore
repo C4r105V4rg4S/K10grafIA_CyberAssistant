@@ -1,0 +1,15 @@
+.amlignore
+.zip
+.chroma/
+.ipynb_checkpoints/
+.ipynb_aml_checkpoints/ 
+__pycache__/
+common/__pycache__/
+.streamlit/
+*.amltmp 
+*.amltemp
+.azure/
+.vscode/
+infra/target/
+**/__pycache__/
+.venv/
