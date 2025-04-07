@@ -13,3 +13,4 @@ common/__pycache__/
 infra/target/
 **/__pycache__/
 .venv/
+credentials.env
